@@ -2,6 +2,9 @@
 
 This project implements a Retrieval-Augmented Generation (RAG) pipeline designed for financial documents containing text, tables, and charts.
 
+<img width="893" height="410" alt="image" src="https://github.com/user-attachments/assets/57f0156c-0d4e-4b41-8791-e8874f302f93" />
+
+
 ## Features
 
 - **Multi-Modal Ingestion**: Processes both text and images from PDFs

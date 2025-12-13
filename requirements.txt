@@ -1,0 +1,14 @@
+streamlit
+mistralai
+pymupdf
+chromadb
+llama-index-core
+llama-index-llms-mistralai
+llama-index-embeddings-mistralai
+llama-index-vector-stores-chroma
+python-dotenv
+pandas
+pdfplumber
+pytesseract
+pillow
+rank-bm25

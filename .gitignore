@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite
+
+# Virtual env
+venv/
+.env
+*.env
+
+# App/Local
+chroma_db/
+.streamlit/
+.DS_Store
+Thumbs.db
+
+# Artifacts / temp / uploads
+uploads/
+samples/*.pdf
+*.pdf

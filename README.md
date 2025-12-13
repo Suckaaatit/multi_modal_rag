@@ -21,7 +21,7 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline designed
 
 1. **Prerequisites**:
    - Python 3.10 or higher
-   - Google Gemini API Key (get it from [aistudio.google.com](https://aistudio.google.com/))
+   - Mistrtal api
 
 2. **Install Dependencies**:
    ```bash

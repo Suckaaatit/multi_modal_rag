@@ -2,9 +2,14 @@
 
 This project implements a Retrieval-Augmented Generation (RAG) pipeline designed for financial documents containing text, tables, and charts.
 
-<img width="896" height="380" alt="image" src="https://github.com/user-attachments/assets/8a79d30d-754e-4b99-ad43-2896f4c72749" />
+<img width="884" height="377" alt="image" src="https://github.com/user-attachments/assets/f5217f8e-7f80-4bd8-a2fe-0b49d78befa9" />
 
-<img width="900" height="437" alt="image" src="https://github.com/user-attachments/assets/41dbbe88-5b83-43e2-b241-fca8e5a353bc" />
+
+along with sources
+<img width="527" height="83" alt="image" src="https://github.com/user-attachments/assets/fec55feb-d886-4fc7-83a0-a489b044fd00" />
+
+
+
 
 
 
